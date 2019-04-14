@@ -19,4 +19,4 @@ Once you have run the Application main, you can access:
     
 Here you can find all of the endpoints the application exposes. (REST paradigm: GET/PUT/POST/DELETE for manipulating the entities).
 
-The application uses Log4j for logging the client's activity while accessing the API.
+The application uses Log4j for logging the client's activity while he is accessing the API.
